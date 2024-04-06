@@ -1,10 +1,14 @@
- --  Open Terminal --
- $ cd server
+1. Open with Live Server
 
- $ npm run devStart
+2. Navigate to localhost:3000/
 
- --
+3. Open Terminal
 
-Go to server url (localhost: ---)
+    $cd server
+
+    $npm run devStart
+
+4. Click checkout
+
 
 Paste unique secret api key from stripe website in .env
